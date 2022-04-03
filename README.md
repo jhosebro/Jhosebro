@@ -1,8 +1,8 @@
 ### Hi there 👋. My name is Jhoan Sebastian Rojas
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-db6400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=plastic)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&style=plastic)]()
 [![JQuery](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 [![Azure](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 <!--

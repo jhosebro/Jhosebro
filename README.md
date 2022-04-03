@@ -2,6 +2,9 @@
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-db6400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![Azure](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 <!--
 **jhosebro/Jhosebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

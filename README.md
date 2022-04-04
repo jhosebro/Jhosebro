@@ -1,9 +1,9 @@
 ### Hi there 👋. My name is Jhoan Sebastian Rojas
 ## Skills:
+[![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=for-the-badge)]()
 [![HTML](https://img.shields.io/badge/HTML-black?logo=html5&style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/css-black?logo=css3&style=for-the-badge)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge)]()
-[![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&style=for-the-badge)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=for-the-badge)]()
 [![JQuery](https://img.shields.io/badge/jquery-black?logo=jquery&style=for-the-badge)]()
 [![AzureDevOps](https://img.shields.io/badge/azure-black?logo=azuredevops&style=for-the-badge)]()

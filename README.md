@@ -4,9 +4,10 @@
 [![HTML](https://img.shields.io/badge/HTML-black?logo=html5&style=for-the-badge)]()
 [![CSS](https://img.shields.io/badge/css-black?logo=css3&style=for-the-badge)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge)]()
+[![AzureDevOps](https://img.shields.io/badge/azure-black?logo=azuredevops&style=for-the-badge)]()
+[![GIT](https://img.shields.io/badge/git-black?logo=git&style=for-the-badge)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=for-the-badge)]()
 [![JQuery](https://img.shields.io/badge/jquery-black?logo=jquery&style=for-the-badge)]()
-[![AzureDevOps](https://img.shields.io/badge/azure-black?logo=azuredevops&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/java-black?logo=java&style=for-the-badge)]()
 <!--
 **jhosebro/Jhosebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

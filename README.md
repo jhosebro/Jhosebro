@@ -1,10 +1,12 @@
 ### Hi there 👋. My name is Jhoan Sebastian Rojas
 ## Skills:
-[![Java](https://img.shields.io/badge/Java-db6400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=plastic)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&style=plastic)]()
-[![JQuery](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
-[![Azure](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/java-black?logo=java&style=for-the-badge)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&style=for-the-badge)]()
+[![JQuery](https://img.shields.io/badge/jquery-black?logo=jquery&style=for-the-badge)]()
+[![AzureDevOps](https://img.shields.io/badge/azure-black?logo=azuredevops&style=for-the-badge)]()
+[![HTML](https://img.shields.io/badge/HTML-black?logo=html5&style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/css-black?logo=css3&style=for-the-badge)]()
 <!--
 **jhosebro/Jhosebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

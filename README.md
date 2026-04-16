@@ -47,43 +47,43 @@ I am a Fullstack Developer focused on building scalable, efficient, and user-cen
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,vue" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,vue,angular" />
 </p>
 
 ### 📱 Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" /> React Native • Expo
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Authenticating
 
 <p>
-  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=express,firebase" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL • SQL • Prisma
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,bash,linux,terraform" />
 </p>
 
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" /> Chart.js • Redshift • Dashboards
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### 🎯 UX & Product
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" /> UX • Performance • SEO
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---

@@ -47,7 +47,7 @@ I am a Fullstack Developer focused on building scalable, efficient, and user-cen
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui,vue" />
 </p>
 
 ### 📱 Mobile

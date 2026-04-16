@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jhoan Sebastian Rojas</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center"><b>Hi , I'm Jhoan Sebastian Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate software developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Bootstrap, Jquery**
+- 🌱 I’m currently learning **Redshift, React Native**
 
-- 👨‍💻 All of my projects are available at [https://jhosebroportfolio.netlify.app/](https://jhosebroportfolio.netlify.app/)
-
+- 👨‍💻 All of my projects are available at https://github.com/jhosebro/
 - 📫 How to reach me **jhosebro2108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

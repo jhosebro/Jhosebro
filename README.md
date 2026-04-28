@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:jhosebro2108@gmail.com">📩 Email</a> •
-  <a href="https://jhosebro.netlify.app/>💻 Portfolio</a> •
+  <a href="https://jhosebro.netlify.app/">💻 Portfolio</a> •
   <a href="https://linkedin.com/in/jhoan-sebastián-rojas-holguin-825b5315b">🔗 LinkedIn</a>
 </p>
 
